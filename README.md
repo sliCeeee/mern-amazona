@@ -1,6 +1,4 @@
-# MERN AMAZONA
-
-# Lessons
+# Double T
 
 1. Introduction
 2. Install Tools
